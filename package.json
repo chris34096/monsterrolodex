@@ -2,6 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chris34096/github.io/monsterrolodex",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
